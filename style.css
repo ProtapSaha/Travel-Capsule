@@ -1,0 +1,135 @@
+*{padding:0;margin:0;}
+.fullwrap{}
+.wrap{width:90%;display:block;margin:0 auto;}
+.header-bg{background:url(img/background.jpg);background-repeat:no-repeat;background-size:cover;overflow:hidden;padding-bottom: 225px;}
+.header-top{overflow:hidden;}
+.header-top .logo{float:left;width: 20%;}
+
+.header-top .logo img{width: 70%;
+height: 25%;
+padding: 15px 15px;}
+.header-top .menu{}
+.header-top .menu ul{list-style:none;display:flex;float:right;}
+.header-top .menu ul li{}
+.header-top .menu ul li a{text-decoration: none;
+color: #ffff;
+padding: 15px 10px;
+display: block;}
+
+
+
+
+
+
+
+.header-top .menu ul li a:hover{text-decoration:underline;}
+.header-bottom{display:block;
+margin: 0 auto;
+text-align: center;
+background: rgba(0, 0, 0, .3);
+padding: 50px 55px;
+ }
+.header-bottom h2{color: #FFFFFF;
+font-size: 30px;
+text-transform: uppercase;
+padding: 5px 0px;}
+.header-bottom p{color: #fff;}
+
+
+/* header ends */
+.section-bg{background: #BDC3C7;
+padding: 80px 0px;}
+.header-area{}
+.header-area h2{display: block;
+text-align: center;
+text-transform: uppercase;}
+.content-area{display:flex; justify-content: space-between;}
+.content-area .content-left{width:30%;}
+.content-area .content-left img{width:100%;}
+.content-area .content-right{width: 65%;}
+.content-area .content-right p{text-align: justify;
+padding: 15px 0px;}
+/*Ending section */
+.gallery-bg{padding: 50px 0px;}
+.row-one, .row-tow{display: flex;
+justify-content: space-between;
+margin-bottom: 25px;} 
+.row-one .col, .row-tow .col{width:30%;overflow:hidden;}
+.row-one img, .row-tow img{width:100%;transition:0.5s;} 
+.row-one img:hover, .row-tow img:hover{
+	transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+
+}/*form ends */
+.form-bg{background:url(img/under_background.jpg) no-repeat;background-size:cover;padding: 35px 0px;background-attachment:fixed;}
+.form-bg .header-area{color: #ffff;
+padding: 10px 0px;}
+.contact-content{display:flex;justify-content: space-between;}
+.contact-content .content-left{width:45%;}
+
+
+.form{width:100%;}
+.form label{color: #ffff;
+display: block;}
+.form input[type=email]{width:100%;height:33px;}
+.form input[type=submit]{display: block;
+background: #B5335D;
+padding: 5px 16px;
+margin: 5px 0px;
+cursor: pointer;}
+.form textarea{width:100%;height:60px;}
+.contact-content .content-right{width:40%;}
+.contact-content .content-right .map{width:100%;}
+/* Ending form */
+.wrap-bg{padding:15px 0px;}
+.wrap-bg .footer{color:#FFFFFF;text-align:center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
